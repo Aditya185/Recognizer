@@ -14,17 +14,11 @@ This is text and label recognizer based on firebase mlKit
 6. Simply run the app.
 
 ## Some Screenshots of this app
-![ sign up](/images/sign.png)
+![ Home](/images/home.png)
 
-![ chat status](/images/chats.png)
+![ text](/images/text.png)
 
-![profile ](/images/profile.png)
-
-![chat  ](/images/chat.png)
-
-![ notify](/images/notify.png)
-
-![find friends ](/images/find.png)
+![label](/images/label.png)
 
 
 
